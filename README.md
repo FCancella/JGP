@@ -1,5 +1,6 @@
 ## Q2:
 ![Q2 Output](q2_output.png)
+(Frequency was kept monthly)
 
 ## Q3:
 How you would automate the process of extracting the data?
