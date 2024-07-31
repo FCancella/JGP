@@ -9,6 +9,7 @@ import pandas as pd
 
 headers = {'Content-type': 'application/json'}
 data = {
+    #"registrationkey": "...",
     "seriesid": ['CUSR0000SA0', 'CUSR0000SA0L1E', 'CUSR0000SETB01'],
     "startyear":"2019",
     "endyear":"2024"
