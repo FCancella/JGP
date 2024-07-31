@@ -17,7 +17,6 @@ This code could also provide some extra features like:
 - writing a report with the data and the plot.
 
 ## Q4:
-![Q4 Output](q4_output.png)
 Explain how you would relate the price series (All items) with the Gasoline (Gasoline) price series.:
 
 To analyse the relationship between CPI All items and CPI Gasoline price series in a simples way, we could do the following:
@@ -28,3 +27,8 @@ To analyse the relationship between CPI All items and CPI Gasoline price series 
    - Plotting the data may provide a visual view of the relationship between the two time series.
 3. compare statistics like standard deviation:
    - Comparing the standard deviation of the two datasets can give an idea of how volatile both prices are over time.
+![Q4 Output](q4_output.png)
+Pearson correlation coefficient: 0.8044789669584937
+Pearson correlation coefficient of year-over-year percentage variation: 0.7572940527036165
+Standard deviation of all items: 21.400672490735214
+Standard deviation of gasoline: 57.06203789192502
