@@ -47,3 +47,13 @@ To analyze the relationship between CPI All items and CPI Gasoline price series 
 - Standard deviation of gasoline: 57.06203789192502
   
 ![Q4 Output](q4_output.png)
+
+## Bonus:
+
+\> uvicorn bonus:app
+
+![Bonus Output](bonus_output_1.png)
+
+![Bonus Output](bonus_output_3.png)
+
+![Bonus Output](bonus_output_2.png)
